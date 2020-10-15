@@ -46,7 +46,7 @@ majin_boo
 
 #### montando o container
 
-Estando tudo certo está na hora de montar os containers:
+Está na hora de montar os containers:
 
 ``
 docker run -itd -p 80:80 --name majin_boo majin_boo

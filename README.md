@@ -49,12 +49,12 @@ majin_boo
 Está na hora de montar os containers:
 
 ``
-docker run -itd -p 80:80 --name majin_boo majin_boo
+docker run -it -p 80:80 --name majin_boo majin_boo
 ``
 
 
 ``
-docker run -itd -p 3000:3000 --name mr_satan mr_satan  
+docker run -it -p 3000:3000 --name mr_satan mr_satan  
 ``
 
 ## Testando

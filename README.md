@@ -1,7 +1,7 @@
 
 # Descrição
 
-Esse arquivo tem como intenção auxiliar a configuração do ambiente de desenvolvimento do front end.
+Esse arquivo tem como intenção auxiliar a configuração do ambiente de desenvolvimento do front-end.
 
 ## Pré Requisitos
 
